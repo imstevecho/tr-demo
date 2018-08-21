@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "Think Research",
+   "icon": "./src/assets/demo.png",
+   "version": "1.0.0",
+   "slug": "think-research-demo",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.thinkresearch.demo"
+   },
+   "android": {
+     "package": "com.thinkresearch.demo"
+   }
+  }
+}
